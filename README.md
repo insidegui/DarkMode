@@ -2,7 +2,7 @@
 
 Enable "real dark mode" on OS X El Capitan / macOS Sierra.
 
-[Learn more here](https://medium.com/linkcommingsoon).
+[Learn more here](https://medium.com/@guilhermerambo/how-to-enable-real-dark-mode-on-os-x-macos-14966f9f7d24#.9g8czet19).
 
 ![picture](darkmode.jpg)
 
